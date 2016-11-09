@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/b3log/symphony.png?label=ready&title=Ready)](https://waffle.io/b3log/symphony)
 <img src="https://cloud.githubusercontent.com/assets/873584/19897669/e6a6f5ce-a093-11e6-8cf3-8e5c2acea033.png">  
 
 <p align = "center">
